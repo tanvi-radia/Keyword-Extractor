@@ -7,6 +7,9 @@ Basically, this is a simple tool built with React and Chakra UI that uses the Op
 I have used Vite and react.js as front-end tools in this project and Chakra UI library. It is super easy to use and it's very customizable. If you want to use a different UI library or just use your own CSS, you can do that as well.
 
 ![image](https://github.com/tanvi-radia/Keyword-Extractor-react-app/assets/139433835/5be7c50c-0823-4fb2-8711-73c0c5074497)
+![image](https://github.com/tanvi-radia/Keyword-Extractor-react-app/assets/139433835/c8c2f134-4984-4db1-bf53-33b6aab0bbb4)
+
+
 
 ## Setup
 
