@@ -8,7 +8,7 @@ I have used Vite and react.js as front-end tools in this project and Chakra UI l
 
 ![image](https://github.com/tanvi-radia/Keyword-Extractor-react-app/assets/139433835/5be7c50c-0823-4fb2-8711-73c0c5074497)
 
-## How to use
+## Setup
 
 Install dependencies:
 
