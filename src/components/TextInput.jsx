@@ -18,7 +18,6 @@ const TextInput = ({ extractKeywords }) => {
       });
       return;
     }
-
     extractKeywords(text);
   };
 
@@ -40,8 +39,7 @@ const TextInput = ({ extractKeywords }) => {
         marginTop={4}
         width='100%'
         _hover={{ bg: 'blue.700' }}
-        onClick={submitText}
-      >
+        onClick={submitText}>
         Extract Keywords
       </Button>
     </>
