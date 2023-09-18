@@ -6,7 +6,7 @@ import TextInput from './components/TextInput';
 import KeywordsModal from './components/KeywordsModal';
 
 const App = () => {
-  const [keywords, setKeywords] = useState([]);
+  const [keywords, setKeywords] = useState('');
   const [isOpen, setIsOpen] = useState(false);
   const [loading, setLoading] = useState(false);
 
