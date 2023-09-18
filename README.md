@@ -9,7 +9,8 @@ I have used Vite and react.js as front-end tools in this project and Chakra UI l
 ![image](https://github.com/tanvi-radia/Keyword-Extractor-react-app/assets/139433835/5be7c50c-0823-4fb2-8711-73c0c5074497)
 ![image](https://github.com/tanvi-radia/Keyword-Extractor-react-app/assets/139433835/c8c2f134-4984-4db1-bf53-33b6aab0bbb4)
 
-
+## Limitation: 
+This project has no custom backend to store API key on the server. As, to fetch the API key user must request the server, and server must request to OPENAI for secret key creation.
 
 ## Setup
 
